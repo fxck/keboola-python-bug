@@ -1,5 +1,5 @@
 zerops:
-  - setup: llmresearcher
+  - setup: test
     build:
       deploy: ./
       addToRunPrepare: requirements.txt
