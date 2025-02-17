@@ -236,3 +236,4 @@ wsproto==1.2.0
     # via trio-websocket
 wtforms==3.2.1
     # via flask-wtf
+fastapi
