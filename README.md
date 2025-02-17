@@ -1,6 +1,6 @@
 ```yaml
 project:
-  name: keboola-python
+  name: keboola-python-bug
 
 services:
   - hostname: test
