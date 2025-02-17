@@ -237,3 +237,4 @@ wsproto==1.2.0
 wtforms==3.2.1
     # via flask-wtf
 fastapi
+uvicorn
