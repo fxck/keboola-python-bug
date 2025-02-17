@@ -3,7 +3,7 @@ project:
   name: keboola-python
 
 services:
-  - hostname: llmresearcher
+  - hostname: test
     type: python@3.11
     buildFromGit: https://github.com/fxck/keboola-python-bug
     enableSubdomainAccess: true
